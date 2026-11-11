@@ -160,7 +160,7 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 ![dnsrecon output](dnsrecon -d.png)
 
-![Zenmap local Network scan](local network.png)
+![Zenmap scan local network](localnetwork.png)
 
 ![Zenmap Host scan](host scan.png)
 
