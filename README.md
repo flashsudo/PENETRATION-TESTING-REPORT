@@ -162,7 +162,7 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 ![Zenmap scan local network](localnetwork.png)
 
-![Zenmap Host scan](host scan.png)
+![Zenmap Host scan](hostscan.png)
 
 ![Zenmap scan and topology](topology.png)
 
