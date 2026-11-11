@@ -10,9 +10,9 @@
 
 | Field | Detail |
 |---|---|
-| **Pentester Name (Cybersecurity Professional)** | **Emmanuel Bafi** |
-| **Program/Batch** | B082-Networkwalks |
-| **Date** | 17 August 2026 |
+| **Pentester Name (Cybersecurity Professional)** | **Flash Amenkey** |
+| **Program/Batch** | B084-Networkwalks |
+| **Date** | 11 November 2026 |
 | **Modules completed** | W2-PM1 (Multiple Kali Tools)<br>W2-PM5 (Zenmap Scanning) |
 | **Client/Target** | 1. Networkwalks (secured written permission already)<br>2. My own local LAN Network |
 | **Permission secured from client?** | Yes |
@@ -70,16 +70,13 @@ I first used the Windows `ipconfig` command to identify my local IP address and 
 
 The example results provided in the practical identified four live hosts:
 
-- `10.0.0.1`
-- `10.0.0.4`
-- `10.0.0.19`
-- `10.0.0.5`
-
+- `192.168.100.1`
+- `192.168.100.163`
+  
 The example results also included four MAC addresses.
 
 After completing the scan, I opened the **Topology** section in Zenmap, enabled the legend and saved the network topology in PDF format as required by the practical task.
 
-**Note:** The actual subnet, number of hosts and addresses should be replaced with the results from my own network when submitting the report.
 
 # 5. Risk Analysis / Impact
 
