@@ -154,11 +154,11 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 ![nslookup output](nslookup.png)
 
-![curl output](curl -I.png)
+![curl output](curl.png)
 
 ![wafw00f output](wafw00f.png)
 
-![dnsrecon output](dnsrecon -d.png)
+![dnsrecon output](dnsrecon.png)
 
 ![Zenmap scan local network](localnetwork.png)
 
