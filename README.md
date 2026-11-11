@@ -164,6 +164,8 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 ![Zenmap Host scan](hostscan.png)
 
+![Zenmap Port](Ports.hosts.png)
+
 ![Zenmap scan and topology](topology.png)
 
 -End-
